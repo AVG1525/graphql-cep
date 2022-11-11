@@ -1,7 +1,7 @@
 ﻿using GraphQL;
 using GraphQL.Types;
 
-namespace ApiCepCB.GraphQL
+namespace ApiCepCB.GraphQL.Schemas
 {
     public class GraphSchema : Schema
     {

@@ -1,8 +1,6 @@
 ﻿using ApiCepCB.Model;
 using RestEase;
 
-using ApiCepCB.GraphQL.Type;
-
 namespace ApiCepCB.Services
 {
     public interface IApiViaCepService
